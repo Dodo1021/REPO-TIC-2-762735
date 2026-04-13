@@ -5,3 +5,5 @@ h1 {
 p {
     color: blue;
 }
+/* Nuevo estilo para el header - feature branch */
+header { background-color: #1B2A4A; color: white; padding: 20px; }
